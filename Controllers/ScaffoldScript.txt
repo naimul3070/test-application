@@ -1,0 +1,3 @@
+scaffold-DbContext  "Data Source=SQL5063.site4now.net;Initial Catalog=db_a9cc46_naimuldb;Persist Security Info=False;User ID=db_a9cc46_naimuldb_admin;Password=Shimul01833455558;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir "DbContexts/Models" -ContextDir "DbContexts" -Context "ReadWriteContext"  -t dbo.Credential -f
+
+
